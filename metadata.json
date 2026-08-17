@@ -1,0 +1,6 @@
+{
+  "name": "3D Horror Room Explorer",
+  "description": "An interactive first-person 3D horror room exploration experience built with Three.js and WebGL.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
